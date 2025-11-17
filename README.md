@@ -264,3 +264,4 @@ There are several ways to expand this research:
 * R. V. Kulkarni, K. Thopate, F. Khatib, A. Dixit, A. Ingle and A. Kanathia, "Enhancing Used Car Price Predictions with Machine Learning-Based Damage Detection," 2024 5th IEEE Global Conference for Advancement in Technology (GCAT), Bangalore, India, 2024, pp. 1-7, doi: 10.1109/GCAT62922.2024.10923877.
 
 
+
